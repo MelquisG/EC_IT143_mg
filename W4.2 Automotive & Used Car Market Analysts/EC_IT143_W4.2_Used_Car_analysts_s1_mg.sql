@@ -1,0 +1,1 @@
+-- Q: What is the average selling price by transmission type?
