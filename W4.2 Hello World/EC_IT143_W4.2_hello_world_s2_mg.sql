@@ -1,0 +1,3 @@
+-- Q: What is the current database and server name?
+
+-- A: Let's use built-in system functions to ask SQL Server...
