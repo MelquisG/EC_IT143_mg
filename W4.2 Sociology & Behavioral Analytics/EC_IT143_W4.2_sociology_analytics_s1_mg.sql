@@ -1,0 +1,1 @@
+-- Q: How many people belong to each personality type?
